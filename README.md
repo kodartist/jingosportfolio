@@ -1,7 +1,2 @@
-# laravel_crud
-Basic Laravel Crud
-"# jingos portfolio" 
-"# jingosportfolio" 
-"# jingosportfolio" 
-"# jingosportfolio" 
-"# jingosportfolio" 
+# JINGOSPORTFOLIO
+Simple design for my work portfolio
